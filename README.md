@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed Nadir BELBACHIR @Nadir-blb 
-- 👀 I’m interested in web devloppement and DevOps
+- 👀 I’m interested in IT, web devloppement and DevOps
 - 🌱 I’m currently learning it engineering
 - 💞️ I’m looking to collaborate on IT projects
 - 📫 How to reach me : e-mail :nadir.belbachir@inttic.dz 
